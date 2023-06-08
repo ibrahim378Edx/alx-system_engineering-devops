@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e '\n' $(ls -a -m -p)'\n'
+ls -a -m -p
