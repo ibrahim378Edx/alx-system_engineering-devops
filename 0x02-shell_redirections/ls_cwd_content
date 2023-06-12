@@ -1,0 +1,15 @@
+total 52
+drwxrwxr-x 2 arraka arraka 4096 يون 13 02:12 .
+drwxrwxr-x 6 arraka arraka 4096 يون 12 23:38 ..
+-rwxrwxr-x 1 arraka arraka   32 يون 12 23:43 0-hello_world
+-rwxrw-r-- 1 arraka arraka   28 يون 12 23:50 1-confused_smiley
+-rwxrw-r-- 1 arraka arraka   28 يون 12 23:56 2-hellofile
+-rwxrw-r-- 1 arraka arraka   39 يون 13 00:18 3-twofiles
+-rwxrw-r-- 1 arraka arraka   37 يون 13 00:36 4-lastlines
+-rwxrw-r-- 1 arraka arraka   35 يون 13 00:38 5-firstlines
+-rwxrw-r-- 1 arraka arraka   41 يون 13 01:05 6-third_line
+-rwxrw-r-- 1 arraka arraka   98 يون 13 02:07 7-file
+-rw-rw-r-- 1 arraka arraka   37 يون 13 02:10 8-cwd_state
+-rw-rw-r-- 1 arraka arraka  786 يون 13 00:59 iacta
+-rw-rw-r-- 1 arraka arraka    0 يون 13 02:12 ls_cwd_content
+-rw-rw-r-- 1 arraka arraka   17 يون 12 23:40 README.md
