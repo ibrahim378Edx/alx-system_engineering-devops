@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -name '*.gif' | tr -d '/' '.'| LC_ALL=C sort -f
+find . -type f -name '*.gif' |rev| tr -d '/' '.'|rev| LC_ALL=C sort -f
