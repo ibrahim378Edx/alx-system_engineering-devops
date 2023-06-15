@@ -1,0 +1,2 @@
+#!/bin/bash
+input=$(cat "$1"); acro=$(echo "$input" | cut -c 1 | tr -d '\n'); echo -e "$(echo "$input" | cut -c 2-)"'\n'"$acro"
