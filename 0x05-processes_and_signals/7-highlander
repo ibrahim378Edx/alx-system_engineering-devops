@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
-trap 'echo "I am invincible!!!" ' TERM
+# Displays "To infinity and beyond" indefinitely with
 
-while :
+while true
 do
-    echo "To infinity and beyond"
-    sleep 2
+  echo "To infinity and beyond"
+  sleep 2
+  trap 'echo "I am invincible"' SIGTERM 
 done
